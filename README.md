@@ -10,6 +10,8 @@ git clone https://github.com/ultralytics/yolov5
 
 git clone https://github.com/doorteeth/yolov5_tensorrt_mini.git
 
+$ cd path/to/yolov5
+
 $ python path/to/export.py --weights yolov5s.pt --include onnx
 
 生成yolov5s.onnx,将文件复制到yolov5_tensorrt_mini项目下
