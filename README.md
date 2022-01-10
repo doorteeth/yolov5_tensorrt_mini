@@ -7,6 +7,7 @@ tenorrt版本>8.0
 使用方法：
 
 git clone https://github.com/ultralytics/yolov5
+
 git clone https://github.com/doorteeth/yolov5_tensorrt_mini.git
 
 $ python path/to/export.py --weights yolov5s.pt --include onnx
