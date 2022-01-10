@@ -29,3 +29,5 @@ $ cmake ..
 $ make -j8
 
 $ ./yolov5mini_tensorrt
+
+相关视频：https://www.bilibili.com/video/BV1c34y1B7P5?spm_id_from=333.999.0.0
